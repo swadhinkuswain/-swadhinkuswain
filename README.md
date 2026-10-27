@@ -4,7 +4,7 @@
 
 I turn data into clear decisions and use AI agents to automate repetitive reporting.
 Founder of TradingHark, an AI-powered analytics platform for Indian F&O traders
-(DPIIT-recognized, selected for incubation at Kolhapur Institute of Technology TBI).
+(DPIIT-recognized, selected for pre-incubation at Kolhapur Institute of Technology (KIT TBI).
 
 ## Currently learning
 SQL · Excel · Power BI · Python (pandas) · n8n · LLM APIs
